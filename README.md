@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jdarling-aim
+- 👀 I’m interested in Quality engineering, DevOps, Automation, Pipelines, IaC, SaaS, FaaS, Cloud migrations
+- 🌱 I’m currently learning Packer & advanced PowerShell
+- 💞️ I’m looking to collaborate on DevOps, Automation, Pipelines and where they overlap
+- 📫 How to reach me jdarling@aimconsulting.com
